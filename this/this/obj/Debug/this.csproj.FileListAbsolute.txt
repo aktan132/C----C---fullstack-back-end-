@@ -1,0 +1,7 @@
+C:\Users\tan_a\source\repos\this\this\bin\Debug\@this.dll
+C:\Users\tan_a\source\repos\this\this\bin\Debug\@this.pdb
+C:\Users\tan_a\source\repos\this\this\obj\Debug\this.csproj.AssemblyReference.cache
+C:\Users\tan_a\source\repos\this\this\obj\Debug\this.csproj.CoreCompileInputs.cache
+C:\Users\tan_a\source\repos\this\this\obj\Debug\@this.dll
+C:\Users\tan_a\source\repos\this\this\obj\Debug\@this.pdb
+C:\Users\tan_a\source\repos\this\this\obj\Debug\this.csproj.CopyComplete
